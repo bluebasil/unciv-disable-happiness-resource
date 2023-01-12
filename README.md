@@ -1,0 +1,1 @@
+# unciv-disable-happiness-resource
